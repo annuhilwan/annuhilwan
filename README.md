@@ -1,6 +1,5 @@
 # Hi 👋, I'm Annuh Liwan Nahar
 
-[![YOLO](https://img.shields.io/badge/YOLO-pushing%20to%20main-brightgreen)](https://github.com/annuhilwan)
  
 🚀 Full-Stack Developer | Web & Mobile  
 📍 Indonesia  
