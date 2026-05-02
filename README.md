@@ -1,5 +1,7 @@
 # Hi 👋, I'm Annuh Liwan Nahar
 
+[![YOLO](https://img.shields.io/badge/YOLO-pushing%20to%20main-brightgreen)](https://github.com/annuhilwan)
+
 🚀 Full-Stack Developer | Web & Mobile  
 📍 Indonesia  
 
@@ -10,10 +12,10 @@
 
 ## 🧠 About Me
 
-I’m a **Full-Stack Developer with 6+ years of experience** in building scalable, fast, and maintainable **web & mobile applications**.  
+I'm a **Full-Stack Developer with 6+ years of experience** in building scalable, fast, and maintainable **web & mobile applications**.  
 Strong in both **frontend and backend**, with a focus on clean code, performance, and SEO-friendly architecture.
 
-I’m experienced working with **modern frameworks**, REST APIs, relational & NoSQL databases, and agile development teams.
+I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQL databases, and agile development teams.
 
 ---
 
@@ -76,7 +78,7 @@ I’m experienced working with **modern frameworks**, REST APIs, relational & No
 
 ---
 
-## 🎯 What I’m Focusing On
+## 🎯 What I'm Focusing On
 - Building **SEO-friendly & high-performance web apps**
 - Scalable architecture with modern frameworks
 - Clean, maintainable, and readable code
