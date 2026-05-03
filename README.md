@@ -53,7 +53,8 @@ I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQ
 
 **Software Engineer (Freelance)**
 *PT. Star Perkasa Technology* — Jan 2026 – Present
-- Built end-to-end web applications using Express.js and React.js ● Designed and implemented database schemas (PostgreSQL, MariaDB)
+- Built end-to-end web applications using Express.js and React.js
+- Designed and implemented database schemas (PostgreSQL, MariaDB)
 - Handled complex data operations via REST APIs
 - Developed UI using Tailwind CSS
 - Collaborated with cross-functional teams
