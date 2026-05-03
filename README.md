@@ -51,7 +51,7 @@ I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQ
 
 ## 💼 Work Experience
 
-**Software Engineer (Freelance)**
+**Software Engineer (Freelance)**  
 *PT. Star Perkasa Technology* — Jan 2026 – Present
 - Built end-to-end web applications using Express.js and React.js
 - Designed and implemented database schemas (PostgreSQL, MariaDB)
