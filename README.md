@@ -1,121 +1,158 @@
 # Hi 👋, I'm Annuh Liwan Nahar
 
- 
-🚀 Full-Stack Developer | Web & Mobile  
-📍 Indonesia  
+🚀 Full-Stack Engineer (Web & Mobile)
+🔐 Focused on Performance, Scalability & Security
+📍 Indonesia
 
-📧 annuhliwan@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/annuh-liwan/)  
+📧 [annuhliwan@gmail.com](mailto:annuhliwan@gmail.com)
+🔗 https://www.linkedin.com/in/annuh-liwan/
 
 ---
 
 ## 🧠 About Me
 
-I'm a **Full-Stack Developer with 6+ years of experience** in building scalable, fast, and maintainable **web & mobile applications**.  
-Strong in both **frontend and backend**, with a focus on clean code, performance, and SEO-friendly architecture.
+Full-Stack Engineer with 6+ years of experience building scalable, high-performance web and mobile applications.
 
-I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQL databases, and agile development teams.
+I specialize in designing clean architectures, building efficient REST APIs, and creating responsive user experiences. Recently, I’ve been focusing on **security-driven applications**, particularly in **phishing detection systems**.
+
+---
+
+## 🔥 Featured Projects
+
+### 🛡️ QRishing-AI — QR Code Phishing Detection System
+
+AI-powered system to detect malicious QR codes and prevent phishing attacks in real-time.
+
+**Tech Stack:** Python, Flutter, Google Safe Browsing API
+
+* Built backend service to analyze and validate URLs from QR codes
+* Integrated real-time threat detection using Google Safe Browsing
+* Developed Flutter mobile app for QR scanning and user alerts
+* Designed low-latency API communication for fast detection
+
+**Impact:**
+
+* Prevents users from accessing malicious links
+* Adds real-time security layer to QR scanning
+* Raises awareness of mobile phishing threats
+
+🔗 https://github.com/annuhliwan/qrishing-ai
+
+---
+
+### 🚀 Fullstack Sports Booking Platform
+
+Web & mobile application for managing sports bookings and schedules.
+
+**Tech Stack:** Express.js, Flutter, Firebase, MongoDB
+
+* Built REST APIs for booking and user management
+* Developed mobile app with Flutter
+* Implemented real-time data sync using Firebase
+* Designed scalable backend architecture
+
+---
+
+### 🌐 SEO-Optimized Web Platform
+
+High-performance web application with SEO-focused architecture.
+
+**Tech Stack:** React.js, Express.js, PostgreSQL
+
+* Built fast-loading, SEO-friendly web pages
+* Optimized API performance and database queries
+* Designed scalable database schema
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
-- PHP (Laravel, CodeIgniter)
-- Node.js (Express, Adonis.js)
-- Python
+**Backend:**
+PHP (Laravel, CodeIgniter), Node.js (Express, Adonis.js), Python
 
-### Frontend
-- React.js
-- Vue.js / Nuxt.js
-- HTML, CSS, Tailwind CSS, Bootstrap
-- Inertia.js
+**Frontend:**
+React.js, Vue.js, Nuxt.js, Inertia.js
+HTML, CSS, Tailwind CSS, Bootstrap
 
-### Mobile
-- Flutter
-- Kotlin / Java
-- React Native
+**Mobile:**
+Flutter, React Native, Kotlin, Java
 
-### Databases
-- MySQL, PostgreSQL, MariaDB
-- MongoDB, Firebase
-- Oracle
+**Databases:**
+PostgreSQL, MySQL, MariaDB, MongoDB, Firebase, Oracle
 
-### Tools & Others
-- Git & GitHub
-- Ubuntu Server, Nginx
-- VS Code, Android Studio
-- RESTful APIs
+**Tools & DevOps:**
+Git, GitHub, Nginx, Ubuntu Server
+REST APIs, CI/CD (basic), Android Studio, VS Code
 
 ---
 
 ## 💼 Work Experience
 
-**Software Engineer (Freelance)**  
-*PT. Star Perkasa Technology* — Jan 2026 – Present
-- Built end-to-end web applications using Express.js and React.js
-- Designed and implemented database schemas (PostgreSQL, MariaDB)
-- Handled complex data operations via REST APIs
-- Developed UI using Tailwind CSS
-- Collaborated with cross-functional teams
-- Optimized performance and scalability
-- Maintained clean and well-documented code
-- Debugged full-stack issues
-- Conducted code reviews
-- Ensured application security and data integrity
+**Software Engineer (Freelance)** — *PT. Star Perkasa Technology*
+Jan 2026 – Present
 
-**Fullstack Engineer (Freelance)**<br>
-*Koplay Sports* — Mar 2026 – Present  
-- Built and maintained fullstack applications using Express.js and Flutter  
-- Managed backend services and APIs with Firebase and MongoDB  
-- Developed mobile applications using Flutter and Dart  
-- Utilized Cloud Firestore for real-time data handling  
-- Implemented DevOps practices for deployment and scalability  
-- Collaborated remotely with cross-functional teams  
-- Ensured performance, security, and code quality  
-
-**Front-End Developer**  
-*Kemang Internet Pte. Ltd.* (Jun 2025 – Oct 2025)  
-- Built web applications using Nuxt & Vue  
-- Implemented responsive UI with Tailwind CSS  
-- Integrated REST APIs with PostgreSQL  
-
-**WordPress Developer**  
-*S-FX.com Small Business Solutions, LLC* (May 2025 – Jun 2025)  
-- Custom WordPress development (PHP)  
-- Bootstrap & Tailwind CSS  
-- Bricks Builder & ACF Pro  
-
-**Flutter Developer**  
-*Codingo Assignments Pte. Ltd.* (Feb 2025 – Jun 2025)  
-- Built mobile apps using Flutter  
-- React Native development  
-- Android apps with Java/Kotlin  
-
-**Full-Stack Developer**  
-*PT Koding Dev Nusantara* (Jan 2024 – Apr 2024)  
-- Backend with Adonis.js  
-- Frontend with Vue / React + Inertia.js  
-- PostgreSQL, MySQL, MongoDB  
+* Built scalable web applications using Express.js and React.js
+* Designed database schemas (PostgreSQL, MariaDB)
+* Developed and optimized RESTful APIs
+* Ensured performance, security, and clean architecture
 
 ---
 
-## 🎯 What I'm Focusing On
-- Building **SEO-friendly & high-performance web apps**
-- Scalable architecture with modern frameworks
-- Clean, maintainable, and readable code
+**Fullstack Engineer (Freelance)** — *Koplay Sports*
+Mar 2026 – Present
+
+* Developed fullstack web & mobile applications
+* Integrated Firebase and MongoDB services
+* Built real-time features using Cloud Firestore
 
 ---
 
-## 📌 Featured Projects
-👉 Check my pinned repositories below for real projects and case studies.
+**Front-End Developer** — *Kemang Internet Pte. Ltd.*
+Jun 2025 – Oct 2025
+
+* Built responsive UI using Nuxt.js & Vue.js
+* Integrated REST APIs
+
+---
+
+**WordPress Developer** — *S-FX.com Small Business Solutions, LLC*
+May 2025 – Jun 2025
+
+* Custom WordPress development (PHP)
+* Tailwind CSS & Bootstrap
+
+---
+
+**Flutter Developer** — *Codingo Assignments Pte. Ltd.*
+Feb 2025 – Jun 2025
+
+* Built cross-platform mobile apps
+* Worked with Flutter, React Native, Android
+
+---
+
+**Full-Stack Developer** — *PT Koding Dev Nusantara*
+Jan 2024 – Apr 2024
+
+* Backend with Adonis.js
+* Frontend with Vue / React + Inertia.js
+
+---
+
+## 🎯 Focus Areas
+
+* High-performance & SEO-friendly applications
+* Scalable backend architecture
+* Security-focused systems (anti-phishing, validation)
+* Clean, maintainable, production-ready code
 
 ---
 
 ## 🌐 Languages
-- Indonesian (Native)
-- English (Professional Working Proficiency)
+
+* Indonesian (Native)
+* English (Professional Working Proficiency)
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+⭐ Open for freelance & remote opportunities
