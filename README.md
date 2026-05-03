@@ -64,6 +64,16 @@ I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQ
 - Conducted code reviews
 - Ensured application security and data integrity
 
+**Fullstack Engineer (Freelance)**<br>
+*Koplay Sports* — Mar 2026 – Present  
+- Built and maintained fullstack applications using Express.js and Flutter  
+- Managed backend services and APIs with Firebase and MongoDB  
+- Developed mobile applications using Flutter and Dart  
+- Utilized Cloud Firestore for real-time data handling  
+- Implemented DevOps practices for deployment and scalability  
+- Collaborated remotely with cross-functional teams  
+- Ensured performance, security, and code quality  
+
 **Front-End Developer**  
 *Kemang Internet Pte. Ltd.* (Jun 2025 – Oct 2025)  
 - Built web applications using Nuxt & Vue  
