@@ -51,6 +51,17 @@ I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQ
 
 ## 💼 Work Experience
 
+**Software Engineer (Freelance)**
+*PT. Star Perkasa Technology* — Jan 2026 – Present
+- Built end-to-end web applications using Express.js and React.js ● Designed and implemented database schemas (PostgreSQL, MariaDB)
+- Handled complex data operations via REST APIs
+- Developed UI using Tailwind CSS
+- Collaborated with cross-functional teams
+- Optimized performance and scalability
+- Maintained clean and well-documented code ● Debugged full-stack issues
+- Conducted code reviews
+- Ensured application security and data integrity
+
 **Front-End Developer**  
 *Kemang Internet Pte. Ltd.* (Jun 2025 – Oct 2025)  
 - Built web applications using Nuxt & Vue  
