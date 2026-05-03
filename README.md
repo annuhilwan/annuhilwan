@@ -59,7 +59,8 @@ I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQ
 - Developed UI using Tailwind CSS
 - Collaborated with cross-functional teams
 - Optimized performance and scalability
-- Maintained clean and well-documented code ● Debugged full-stack issues
+- Maintained clean and well-documented code
+- Debugged full-stack issues
 - Conducted code reviews
 - Ensured application security and data integrity
 
