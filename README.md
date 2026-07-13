@@ -65,7 +65,7 @@ I'm experienced working with **modern frameworks**, REST APIs, relational & NoSQ
 - Ensured application security and data integrity
 
 **Fullstack Engineer (Freelance)**<br>
-*Koplay Sports* — Mar 2026 – Present  
+*Koplay Sports* — Mar 2026 – Jun 2026  
 - Built and maintained fullstack applications using Express.js and Flutter  
 - Managed backend services and APIs with Firebase and MongoDB  
 - Developed mobile applications using Flutter and Dart  
